@@ -1,10 +1,10 @@
 # Client Projects Portfolio
 
-A collection of websites and web applications built for real clients — from initial concept through to a fully deployed, working product. Each project reflects hands-on experience solving real business problems with front-end web development.
+A collection of websites and web applications built for real clients, from initial concept through to a fully deployed, working product. Each project reflects hands-on experience solving real business problems with front-end web development.
 
 ---
 
-## 🌸 Petal Collective
+## Petal Collective
 
 **Live Site:** [petalcollective.co.za](https://petalcollective.co.za/)
 
@@ -48,26 +48,9 @@ These challenges were some of the biggest growth points in the project — turni
 
 ---
 
-## More Projects
-
-*(Add your other client projects below using the same format)*
-
-### [Project Name]
-
-**Live Site:** [link]
-
-Brief description of the client, the problem the site solves, and what it does.
-
-**Technologies Used:**
--
-
-**Skills Demonstrated:**
--
-
----
-
 ## About This Repository
 
-This repo showcases freelance/client web development work completed during my gap year, alongside my computer science studies, as I build practical, real-world development experience.
+This repo showcases freelance/client web development work completed during my gap year, as I build practical, real-world development experience.
 
 **Contact:** Atlegang Mambolo
+atlegangmamabolo1010@gmail.com
